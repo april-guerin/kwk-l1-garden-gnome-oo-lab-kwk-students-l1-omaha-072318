@@ -54,4 +54,4 @@ class GardenGnome
   end
 end
 
-test_gnome5 = GardenGnome.new("red")
+test_gnome5 = GardenGnome.new "red"
