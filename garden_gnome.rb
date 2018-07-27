@@ -54,4 +54,4 @@ class GardenGnome
   end
 end
 
-gnome = GardenGnome.new()
+gnome = GardenGnome.new("red")
